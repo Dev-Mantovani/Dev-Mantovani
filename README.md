@@ -33,10 +33,11 @@ Tenho experiência com **React.js**, consumo de **APIs** e gosto de escrever có
 ---
 
 ### 📊 GitHub
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dev-Mantovani&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mantovani&layout=compact&theme=transparent" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
